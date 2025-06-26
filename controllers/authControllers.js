@@ -6,6 +6,7 @@ const sendEmail = require('../services/emailService');
 const crypto = require('crypto');
 const { generateToken, generateRefreshToken } = require('../services/tokenService');
 
+
 // @desc    Register a new user (HR Personnel)
 // @route   POST /api/auth/register
 // @access  Public
