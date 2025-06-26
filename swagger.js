@@ -19,7 +19,7 @@ const options = {
         description: 'Development server',
       },
       {
-        url: 'https://api.hrrecruitment.com/api',
+        url: 'https://hr-backend-5trg.onrender.com/api',
         description: 'Production server',
       },
     ],
